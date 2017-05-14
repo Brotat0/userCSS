@@ -77,7 +77,6 @@ LI.user-586f64655a25ddba00eafa29  .username .user-role,
 #avatar-list LI.user-586f64655a25ddba00eafa29  .username,
 #avatar-list LI.user-586f64655a25ddba00eafa29  .username:after{
     	color:#ffffff !important;
-    	background-color:#000000!important;
 }
 
 /* Tessa: user-56441346dfd3577a00939d4b */ 
@@ -156,14 +155,14 @@ LI.user-5839eb91ff98fe5400e062a3  .username .user-role,
     	color:#FC3937 !important;
 }
 
-/* rag: user-5878d4195323ab54009ad04d */
-LI.user-5878d4195323ab54009ad04d  .username,
-LI.user-5878d4195323ab54009ad04d  .username .user-role,
-#avatar-list LI.user-5878d4195323ab54009ad04d  .username,
-#avatar-list LI.user-5878d4195323ab54009ad04d  .username:after{
-    	color:#FC3937 !important;
-}
-
+/* rag: user-5878d4195323ab54009ad04d 
+/* LI.user-5878d4195323ab54009ad04d  .username,
+/* LI.user-5878d4195323ab54009ad04d  .username .user-role,
+/* #avatar-list LI.user-5878d4195323ab54009ad04d  .username,
+/* #avatar-list LI.user-5878d4195323ab54009ad04d  .username:after{
+/*    	color:#FC3937 !important;
+/* }
+*/
 /* Soriosh: user-57f3e52bd49da156007a9773 */
 LI.user-57f3e52bd49da156007a9773  .username,
 LI.user-57f3e52bd49da156007a9773  .username .user-role,
