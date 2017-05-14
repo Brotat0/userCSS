@@ -1,0 +1,329 @@
+
+
+/* Overview:
+This should work regardless of roles and should work with any kind of CSS.
+
+*/
+
+/* Dionysis: user-580f434c9b89911a0009114e */
+#chat .chat-container ul.chat-main li.user-580f434c9b89911a0009114e
+.stream-item-content .activity-row .username:hover:first-child:after {
+    content: "ITSA ME" !important;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: 12px;
+    opacity: 0.5;
+    margin-left: 0.3rem;
+    color:#d10000 !important;
+}
+#chat .chat-container ul.chat-main li.user-580f434c9b89911a0009114e
+.stream-item-content .activity-row .user-role {
+    display: none;
+}
+LI.user-580f434c9b89911a0009114e  .username,
+LI.user-580f434c9b89911a0009114e  .username .user-role,
+#avatar-list LI.user-580f434c9b89911a0009114e  .username,
+#avatar-list LI.user-580f434c9b89911a0009114e  .username:after{
+    color:white !important;
+}
+
+/* Zolfax: user-582f23a3072f790a001b217a */
+#chat .chat-container ul.chat-main li.user-582f23a3072f790a001b217a 
+.stream-item-content .activity-row .username:hover:first-child:after {
+    content: "Suckfax" !important;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: 12px;
+    opacity: 0.5;
+    margin-left: 0.3rem;
+    color:#11db36 !important;
+}
+#chat .chat-container ul.chat-main li.user-582f23a3072f790a001b217a 
+.stream-item-content .activity-row .user-role {
+    display: none;
+}
+LI.user-582f23a3072f790a001b217a  .username,
+LI.user-582f23a3072f790a001b217a  .username .user-role,
+#avatar-list LI.user-582f23a3072f790a001b217a  .username,
+#avatar-list LI.user-582f23a3072f790a001b217a  .username:after{
+    color:#11db36 !important;
+}
+
+/* Zolpleb: user-5899c4070b987e73001628a9 */ 
+#chat .chat-container ul.chat-main li.user-5899c4070b987e73001628a9 
+.stream-item-content .activity-row .username:hover:first-child:after {
+    content: "Zolie" !important;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: 12px;
+    opacity: 0.5;
+    margin-left: 0.3rem;
+    color:#11db36 !important;
+}
+#chat .chat-container ul.chat-main li.user-5899c4070b987e73001628a9 
+.stream-item-content .activity-row .user-role {
+    display: none;
+}
+LI.user-5899c4070b987e73001628a9  .username,
+LI.user-5899c4070b987e73001628a9  .username .user-role,
+#avatar-list LI.user-5899c4070b987e73001628a9  .username,
+#avatar-list LI.user-5899c4070b987e73001628a9  .username:after{
+    color:#11db36 !important;
+}
+
+/* Nycto: user-586f64655a25ddba00eafa29 */
+LI.user-586f64655a25ddba00eafa29  .username,
+LI.user-586f64655a25ddba00eafa29  .username .user-role,
+#avatar-list LI.user-586f64655a25ddba00eafa29  .username,
+#avatar-list LI.user-586f64655a25ddba00eafa29  .username:after{
+    color:#8533d9 !important;
+}
+
+/* Tessa: user-56441346dfd3577a00939d4b */ 
+#chat .chat-container ul.chat-main li.user-56441346dfd3577a00939d4b 
+.stream-item-content .activity-row .username:hover:first-child:after {
+    content: "TESS-TESS" !important;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: 12px;
+    opacity: 0.5;
+    margin-left: 0.3rem;
+    color:#E55FC4 !important;
+}
+#chat .chat-container ul.chat-main li.user-56441346dfd3577a00939d4b 
+.stream-item-content .activity-row .user-role {
+    display: none;
+}
+LI.user-56441346dfd3577a00939d4b  .username,
+LI.user-56441346dfd3577a00939d4b  .username .user-role,
+#avatar-list LI.user-56441346dfd3577a00939d4b  .username,
+#avatar-list LI.user-56441346dfd3577a00939d4b  .username:after{
+    color:#E55FC4 !important;
+}
+
+/* dddokter: user-58779a4cc7f20c1800f01925 */
+#chat .chat-container ul.chat-main li.user-58779a4cc7f20c1800f01925
+.stream-item-content .activity-row .username:hover:first-child:after {
+	content: "dddokie" !important;
+	font-weight: 700;
+	font-family: inherit;
+	font-size: 12px;
+	opacity: 0.5;
+	margin-left: 0.3rem;
+	color:#FA981B !important; 
+}
+
+#chat .chat-container ul.chat-main li.user-58779a4cc7f20c1800f01925
+.stream-item-content .activity-row .user-role {
+	display: none;
+} 
+
+LI.user-58779a4cc7f20c1800f01925  .username,
+LI.user-58779a4cc7f20c1800f01925  .username .user-role,
+#avatar-list LI.user-58779a4cc7f20c1800f01925  .username,
+#avatar-list LI.user-58779a4cc7f20c1800f01925  .username:after{
+    color:#FA981B !important;
+}
+
+/* iHook: user-584ba57b2c84a7f10d45632a */
+#chat .chat-container ul.chat-main li.user-584ba57b2c84a7f10d45632a 
+.stream-item-content .activity-row .username:hover:first-child:after {
+    content: "Hooker" !important;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: 12px;
+    opacity: 0.5;
+    margin-left: 0.3rem;
+    color:#69db90 !important;
+}
+#chat .chat-container ul.chat-main li.user-584ba57b2c84a7f10d45632a 
+.stream-item-content .activity-row .user-role {
+    display: none;
+}
+LI.user-584ba57b2c84a7f10d45632a  .username,
+LI.user-584ba57b2c84a7f10d45632a  .username .user-role,
+#avatar-list LI.user-584ba57b2c84a7f10d45632a  .username,
+#avatar-list LI.user-584ba57b2c84a7f10d45632a  .username:after{
+    color:#69db90 !important;
+}
+
+/* W4RD3N: user-5839eb91ff98fe5400e062a3 */
+LI.user-5839eb91ff98fe5400e062a3  .username,
+LI.user-5839eb91ff98fe5400e062a3  .username .user-role,
+#avatar-list LI.user-5839eb91ff98fe5400e062a3  .username,
+#avatar-list LI.user-5839eb91ff98fe5400e062a3  .username:after{
+    color:#FC3937 !important;
+}
+
+/* rag: user-5878d4195323ab54009ad04d */
+LI.user-5878d4195323ab54009ad04d  .username,
+LI.user-5878d4195323ab54009ad04d  .username .user-role,
+#avatar-list LI.user-5878d4195323ab54009ad04d  .username,
+#avatar-list LI.user-5878d4195323ab54009ad04d  .username:after{
+    color:#FC3937 !important;
+}
+
+/* Soriosh: user-57f3e52bd49da156007a9773 */
+LI.user-57f3e52bd49da156007a9773  .username,
+LI.user-57f3e52bd49da156007a9773  .username .user-role,
+#avatar-list LI.user-57f3e52bd49da156007a9773  .username,
+#avatar-list LI.user-57f3e52bd49da156007a9773  .username:after{
+    color:#4580e0 !important;
+}
+
+/* otusss: user-58138753331eba1f0053fb66 */
+LI.user-58138753331eba1f0053fb66  .username,
+LI.user-58138753331eba1f0053fb66  .username .user-role,
+#avatar-list LI.user-58138753331eba1f0053fb66  .username,
+#avatar-list LI.user-58138753331eba1f0053fb66  .username:after{
+    color:#b4f541 !important;
+}
+
+/* Purpleonix: user-580b171215302f33009dca5e */
+#chat .chat-container ul.chat-main li.user-580b171215302f33009dca5e 
+.stream-item-content .activity-row .username:hover:first-child:after {
+    content: "Onix" !important;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: 12px;
+    opacity: 0.5;
+    margin-left: 0.3rem;
+    color:#8430c9 !important;
+}
+#chat .chat-container ul.chat-main li.user-580b171215302f33009dca5e 
+.stream-item-content .activity-row .user-role {
+    display: none;
+}
+LI.user-580b171215302f33009dca5e  .username,
+LI.user-580b171215302f33009dca5e  .username .user-role,
+#avatar-list LI.user-580b171215302f33009dca5e  .username,
+#avatar-list LI.user-580b171215302f33009dca5e  .username:after{
+    color:#8430c9 !important;
+}
+
+
+/* Laq: user-560a8df0b776b203001e6735 */
+#chat .chat-container ul.chat-main li.user-560a8df0b776b203001e6735 
+.stream-item-content .activity-row .username:hover:first-child:after {
+    content: "Important Pony" !important;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: 12px;
+    opacity: 0.5;
+    margin-left: 0.3rem;
+    -webkit-animation:rainbow 10s infinite;
+    -ms-animation:rainbow 10s infinite;
+    -o-animation:rainbow 10s infinite;
+    animation:rainbow 10s infinite;  
+}
+#chat .chat-container ul.chat-main li.user-560a8df0b776b203001e6735 
+.stream-item-content .activity-row .user-role {
+    display: none;
+}
+
+LI.user-560a8df0b776b203001e6735  .username,
+LI.user-560a8df0b776b203001e6735  .username .user-role,
+#avatar-list LI.user-560a8df0b776b203001e6735  .username,
+#avatar-list LI.user-560a8df0b776b203001e6735  .username:after {
+    -webkit-animation:rainbow 10s infinite;
+    -ms-animation:rainbow 10s infinite;
+    -o-animation:rainbow 10s infinite;
+    animation:rainbow 10s infinite;   
+}
+
+@-webkit-keyframes rainbow {
+0% {color: #ff0000;}
+10% {color: #ff8000;}
+20% {color: #ffff00;}
+30% {color: #80ff00;}
+40% {color: #00ff00;}
+50% {color: #00ff80;}
+60% {color: #00ffff;}
+70% {color: #0080ff;}
+80% {color: #0000ff;}
+90% {color: #8000ff;}
+100% {color: #ff0080;}
+}
+@-ms-keyframes rainbow {
+0% {color: #ff0000;}
+10% {color: #ff8000;}
+20% {color: #ffff00;}
+30% {color: #80ff00;}
+40% {color: #00ff00;}
+50% {color: #00ff80;}
+60% {color: #00ffff;}
+70% {color: #0080ff;}
+80% {color: #0000ff;}
+90% {color: #8000ff;}
+100% {color: #ff0080;}
+}
+@-o-keyframes rainbow {
+0% {color: #ff0000;}
+10% {color: #ff8000;}
+20% {color: #ffff00;}
+30% {color: #80ff00;}
+40% {color: #00ff00;}
+50% {color: #00ff80;}
+60% {color: #00ffff;}
+70% {color: #0080ff;}
+80% {color: #0000ff;}
+90% {color: #8000ff;}
+100% {color: #ff0080;}
+}
+@keyframes rainbow {
+0% {color: #ff0000;}
+10% {color: #ff8000;}
+20% {color: #ffff00;}
+30% {color: #80ff00;}
+40% {color: #00ff00;}
+50% {color: #00ff80;}
+60% {color: #00ffff;}
+70% {color: #0080ff;}
+80% {color: #0000ff;}
+90% {color: #8000ff;}
+100% {color: #ff0080;}
+}
+
+/* Takutoo: user-5770471ad52e550a005875b7 */
+#chat .chat-container ul.chat-main li.user-5770471ad52e550a005875b7 
+.stream-item-content .activity-row .username:hover:first-child:after {
+    content: "Lover" !important;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: 12px;
+    opacity: 0.5;
+    margin-left: 0.3rem;
+    color:#f20000 !important;
+}
+#chat .chat-container ul.chat-main li.user-5770471ad52e550a005875b7 
+.stream-item-content .activity-row .user-role {
+    display: none;
+}
+LI.user-5770471ad52e550a005875b7  .username,
+LI.user-5770471ad52e550a005875b7  .username .user-role,
+#avatar-list LI.user-5770471ad52e550a005875b7  .username,
+#avatar-list LI.user-5770471ad52e550a005875b7  .username:after{
+    color:#f20000 !important;
+}
+
+/* HeroOfHyrule: user-584d6c70167dfbae00e98d26 */
+#chat .chat-container ul.chat-main li.user-584d6c70167dfbae00e98d26 
+.stream-item-content .activity-row .username:hover:first-child:after {
+    content: "NOOB" !important;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: 12px;
+    opacity: 0.5;
+    margin-left: 0.3rem;
+    color:#e5f904 !important;
+}
+#chat .chat-container ul.chat-main li.user-584d6c70167dfbae00e98d26 
+.stream-item-content .activity-row .user-role {
+    display: none;
+}
+LI.user-584d6c70167dfbae00e98d26  .username,
+LI.user-584d6c70167dfbae00e98d26  .username .user-role,
+#avatar-list LI.user-584d6c70167dfbae00e98d26  .username,
+#avatar-list LI.user-584d6c70167dfbae00e98d26  .username:after{
+    color:#e5f904 !important;
+}
