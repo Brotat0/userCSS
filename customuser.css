@@ -9,16 +9,16 @@ This should work regardless of roles and should work with any kind of CSS.
 #chat .chat-container ul.chat-main li.user-580f434c9b89911a0009114e
 .stream-item-content .activity-row .username:hover:first-child:after {
     	content: "ITSA ME" !important;
-    	font-weight: 700;
-    	font-family: inherit;
-    	font-size: 12px;
-    	opacity: 0.5;
-    	margin-left: 0.3rem;
+    	font-weight: 700!important;
+    	font-family: inherit!important;
+    	font-size: 12px!important;
+    	opacity: 0.5!important;
+    	margin-left: 0.3rem!important;
     	color:#d10000 !important;
 }
 #chat .chat-container ul.chat-main li.user-580f434c9b89911a0009114e
 .stream-item-content .activity-row .user-role {
-    	display: none;
+    	display: none!important;
 }
 LI.user-580f434c9b89911a0009114e  .username,
 LI.user-580f434c9b89911a0009114e  .username .user-role,
@@ -31,16 +31,16 @@ LI.user-580f434c9b89911a0009114e  .username .user-role,
 #chat .chat-container ul.chat-main li.user-582f23a3072f790a001b217a 
 .stream-item-content .activity-row .username:hover:first-child:after {
     content: "Suckfax" !important;
-    	font-weight: 700;
-    	font-family: inherit;
-    	font-size: 12px;
-    	opacity: 0.5;
-    	margin-left: 0.3rem;
+    	font-weight: 700!important;
+    	font-family: inherit!important;
+    	font-size: 12px!important;
+    	opacity: 0.5!important;
+    	margin-left: 0.3rem!important;
     	color:#11db36 !important;
 }
 #chat .chat-container ul.chat-main li.user-582f23a3072f790a001b217a 
 .stream-item-content .activity-row .user-role {
-    	display: none;
+    	display: none!important;
 }
 LI.user-582f23a3072f790a001b217a  .username,
 LI.user-582f23a3072f790a001b217a  .username .user-role,
@@ -53,22 +53,22 @@ LI.user-582f23a3072f790a001b217a  .username .user-role,
 #chat .chat-container ul.chat-main li.user-5899c4070b987e73001628a9 
 .stream-item-content .activity-row .username:hover:first-child:after {
     	content: "Zolie" !important;
-    	font-weight: 700;
-    	font-family: inherit;
-    	font-size: 12px;
-    	opacity: 0.5;
-    	margin-left: 0.3rem;
+    	font-weight: 700!important;
+    	font-family: inherit!important;
+    	font-size: 12px!important;
+    	opacity: 0.5!important;
+    	margin-left: 0.3rem!important;
     	color:#11db36 !important;
 }
 #chat .chat-container ul.chat-main li.user-5899c4070b987e73001628a9 
 .stream-item-content .activity-row .user-role {
-    	display: none;
+    	display: none!important;
 }
 LI.user-5899c4070b987e73001628a9  .username,
 LI.user-5899c4070b987e73001628a9  .username .user-role,
 #avatar-list LI.user-5899c4070b987e73001628a9  .username,
 #avatar-list LI.user-5899c4070b987e73001628a9  .username:after{
-    	color:#11db36 !important;
+    	color:#11db36!important;
 }
 
 /* Nycto: user-586f64655a25ddba00eafa29 */
@@ -76,23 +76,23 @@ LI.user-586f64655a25ddba00eafa29  .username,
 LI.user-586f64655a25ddba00eafa29  .username .user-role,
 #avatar-list LI.user-586f64655a25ddba00eafa29  .username,
 #avatar-list LI.user-586f64655a25ddba00eafa29  .username:after{
-    	color:#ffffff !important;
+    	color:#ffffff!important;
 }
 
 /* Tessa: user-56441346dfd3577a00939d4b */ 
 #chat .chat-container ul.chat-main li.user-56441346dfd3577a00939d4b 
 .stream-item-content .activity-row .username:hover:first-child:after {
     	content: "TESS-TESS" !important;
-    	font-weight: 700;
-    	font-family: inherit;
-    	font-size: 12px;
-    	opacity: 0.5;
-    	margin-left: 0.3rem;
+    	font-weight: 700!important;
+    	font-family: inherit!important;
+    	font-size: 12px!important;
+    	opacity: 0.5!important;
+    	margin-left: 0.3rem!important;
     	color:#E55FC4 !important;
 }
 #chat .chat-container ul.chat-main li.user-56441346dfd3577a00939d4b 
 .stream-item-content .activity-row .user-role {
-    	display: none;
+    	display: none!important;
 }
 LI.user-56441346dfd3577a00939d4b  .username,
 LI.user-56441346dfd3577a00939d4b  .username .user-role,
@@ -105,46 +105,46 @@ LI.user-56441346dfd3577a00939d4b  .username .user-role,
 #chat .chat-container ul.chat-main li.user-58779a4cc7f20c1800f01925
 .stream-item-content .activity-row .username:hover:first-child:after {
 	content: "dddokie" !important;
-	font-weight: 700;
-	font-family: inherit;
-	font-size: 12px;
-	opacity: 0.5;
-	margin-left: 0.3rem;
+	font-weight: 700!important;
+	font-family: inherit!important;
+	font-size: 12px!important;
+	opacity: 0.5!important;
+	margin-left: 0.3rem!important;
 	color:#FA981B !important; 
 }
 
 #chat .chat-container ul.chat-main li.user-58779a4cc7f20c1800f01925
 .stream-item-content .activity-row .user-role {
-	display: none;
+	display: none!important;
 } 
 
 LI.user-58779a4cc7f20c1800f01925  .username,
 LI.user-58779a4cc7f20c1800f01925  .username .user-role,
 #avatar-list LI.user-58779a4cc7f20c1800f01925  .username,
 #avatar-list LI.user-58779a4cc7f20c1800f01925  .username:after{
-    	color:#FA981B !important;
+    	color:#FA981B!important;
 }
 
 /* iHook: user-584ba57b2c84a7f10d45632a */
 #chat .chat-container ul.chat-main li.user-584ba57b2c84a7f10d45632a 
 .stream-item-content .activity-row .username:hover:first-child:after {
     	content: "Hooker" !important;
-    	font-weight: 700;
-    	font-family: inherit;
-    	font-size: 12px;
-    	opacity: 0.5;
-    	margin-left: 0.3rem;
+    	font-weight: 700!important;
+    	font-family: inherit!important;
+    	font-size: 12px!important;
+    	opacity: 0.5!important;
+    	margin-left: 0.3rem!important;
     	color:#69db90 !important;
 }
 #chat .chat-container ul.chat-main li.user-584ba57b2c84a7f10d45632a 
 .stream-item-content .activity-row .user-role {
-    display: none;
+    display: none!important;
 }
 LI.user-584ba57b2c84a7f10d45632a  .username,
 LI.user-584ba57b2c84a7f10d45632a  .username .user-role,
 #avatar-list LI.user-584ba57b2c84a7f10d45632a  .username,
 #avatar-list LI.user-584ba57b2c84a7f10d45632a  .username:after{
-    	color:#69db90 !important;
+    	color:#69db90!important;
 }
 
 /* W4RD3N: user-5839eb91ff98fe5400e062a3 */
@@ -168,7 +168,7 @@ LI.user-57f3e52bd49da156007a9773  .username,
 LI.user-57f3e52bd49da156007a9773  .username .user-role,
 #avatar-list LI.user-57f3e52bd49da156007a9773  .username,
 #avatar-list LI.user-57f3e52bd49da156007a9773  .username:after{
-    	color:#4580e0 !important;
+    	color:#4580e0!important;
 }
 
 /* otusss: user-58138753331eba1f0053fb66 */
@@ -176,23 +176,23 @@ LI.user-58138753331eba1f0053fb66  .username,
 LI.user-58138753331eba1f0053fb66  .username .user-role,
 #avatar-list LI.user-58138753331eba1f0053fb66  .username,
 #avatar-list LI.user-58138753331eba1f0053fb66  .username:after{
-    	color:#b4f541 !important;
+    	color:#b4f541!important;
 }
 
 /* Purpleonix: user-580b171215302f33009dca5e */
 #chat .chat-container ul.chat-main li.user-580b171215302f33009dca5e 
 .stream-item-content .activity-row .username:hover:first-child:after {
     	content: "Onix" !important;
-    	font-weight: 700;
-    	font-family: inherit;
-    	font-size: 12px;
-    	opacity: 0.5;
-    	margin-left: 0.3rem;
+    	font-weight: 700!important;
+    	font-family: inherit!important;
+    	font-size: 12px!important;
+    	opacity: 0.5!important;
+    	margin-left: 0.3rem!important;
     	color:#8430c9 !important;
 }
 #chat .chat-container ul.chat-main li.user-580b171215302f33009dca5e 
 .stream-item-content .activity-row .user-role {
-    	display: none;
+    	display: none!important;
 }
 LI.user-580b171215302f33009dca5e  .username,
 LI.user-580b171215302f33009dca5e  .username .user-role,
