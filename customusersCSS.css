@@ -42,6 +42,7 @@ LI.user-580f434c9b89911a0009114e  .username .user-role,
 .stream-item-content .activity-row .user-role {
     	display: none;
 }
+/*
 LI.user-582f23a3072f790a001b217a  .username,
 LI.user-582f23a3072f790a001b217a  .username .user-role,
 #avatar-list LI.user-582f23a3072f790a001b217a  .username,
